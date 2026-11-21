@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="31" fill="#1E3932"/>
+  <circle cx="32" cy="32" r="28.5" fill="#1E3932" stroke="#2F8F2F" stroke-width="1.5"/>
+  <!-- Coffee Cup Body -->
+  <path d="M18 26h20v13a7.5 7.5 0 0 1-7.5 7.5h-5A7.5 7.5 0 0 1 18 39V26z" fill="#FFFFFF"/>
+  <!-- Cup Handle -->
+  <path d="M38 28.5h3.5a4.5 4.5 0 0 1 0 9H38" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <!-- Saucer -->
+  <path d="M15 48.5h26" stroke="#2F8F2F" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Botanical / Coffee Steam -->
+  <path d="M24 21c0-4.5 3-7.5 3-7.5s3 3 3 7.5" fill="none" stroke="#2F8F2F" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M32 21c0-3.5 2.5-5.5 2.5-5.5s2.5 2 2.5 5.5" fill="none" stroke="#2F8F2F" stroke-width="2" stroke-linecap="round"/>
+</svg>
